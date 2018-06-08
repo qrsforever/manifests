@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<manifest>
+    <remote name="local" fetch="https://github.com/qrsforever" />
+    <default remote="local" revision="master"/>
+    <project name="java_iotwrap" path="java_iotwrap/" />
+</manifest>
