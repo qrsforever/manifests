@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<manifest>
+    <remote name="rule_engine" fetch="https://github.com/qrsforever" />
+    <default remote="local" revision="master"/>
+    <project name="CppUtils" path="src/Utils" />
+    <project name="Clipscpp" path="src/Clipscpp" />
+</manifest>
