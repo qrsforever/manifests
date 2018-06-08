@@ -2,7 +2,7 @@
 
 <manifest>
     <remote name="rule_engine" fetch="https://github.com/qrsforever" />
-    <default remote="local" revision="master"/>
+    <default remote="origin" revision="master"/>
     <project name="CppUtils" path="src/Utils" />
     <project name="Clipscpp" path="src/Clipscpp" />
 </manifest>
