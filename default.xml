@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <manifest>
-    <remote name="default" fetch="https://github.com/qrsforever" />
+    <remote name="local" fetch="https://github.com/qrsforever" />
     <default remote="local" revision="master"/>
     <project name="test" path="test" />
 </manifest>
