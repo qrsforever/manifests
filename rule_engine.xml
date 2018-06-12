@@ -5,4 +5,5 @@
     <default remote="github" revision="master" sync-j="4" />
     <project name="CppUtils" path="src/Utils" />
     <project name="Clipscpp" path="src/Clipscpp" />
+    <project name="RuleDriver" path="src/RuleDriver" />
 </manifest>
