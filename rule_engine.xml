@@ -6,4 +6,5 @@
     <project name="CppUtils" path="src/Utils" />
     <project name="Clipscpp" path="src/Clipscpp" />
     <project name="RuleDriver" path="src/RuleDriver" />
+    <project name="RuleOthers" path="src" />
 </manifest>
